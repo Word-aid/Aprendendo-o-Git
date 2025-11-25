@@ -84,7 +84,7 @@ treinamento-git/
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/sua-empresa/treinamento-git.git
+    git clone https://github.com/Word-aid/Aprendendo-o-Git.git
     cd treinamento-git
     ```
 
