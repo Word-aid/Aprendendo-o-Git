@@ -7,9 +7,6 @@ Bem-vindo ao repositório de treinamento de Git! 🎯
 
 Este repositório foi criado para ajudar todos a se familiarizarem com o Git de forma **prática e colaborativa**. A ideia é que você faça os exercícios passo a passo, trabalhando em branches, fazendo commits, abrindo Pull Requests e revisando o trabalho dos colegas.
 
----<img width="744" height="549" alt="image" src="https://github.com/user-attachments/assets/e47174d1-b5fd-4c1e-ae6e-474d631b76bd" />
-<img width="744" height="549" alt="image" src="https://github.com/user-attachments/assets/0f621e1a-8156-48b3-b483-e084de439a47" />
-
 
 ## 🧭 Sumário
 
